@@ -2,7 +2,7 @@ const citySelect = document.getElementById("citySelect");
 const tempBox = document.querySelector(".temp");
 const weatherBox = document.querySelector(".weather");
 
-const API_KEY = "208f6d8d28336d4c82db9a5bc90de276";
+const API_KEY = "-";
 
 const container = document.querySelector(".container");
 
